@@ -3,7 +3,8 @@
 A sleek, responsive, and highly interactive single-page portfolio website for a Software Development Engineer. Built using **React**, **Vite**, **Tailwind CSS**, and **Framer Motion** for micro-animations and page transitions.
 
 ## 🚀 Live Demo & Repository
-- **GitHub Repository**: [github.com/MALLIKARJUN123-pi](https://github.com/MALLIKARJUN123-pi)
+- **Live Demo Link**: [mallikarjun-protfolio.netlify.app](https://mallikarjun-protfolio.netlify.app/)
+- **GitHub Repository**: [github.com/MALLIKARJUN123-pi/portfolio](https://github.com/MALLIKARJUN123-pi/portfolio)
 
 ---
 
